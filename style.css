@@ -249,6 +249,7 @@ img {
 @media (min-width: 1200px) {
   .gallery-container {
     margin-top: 20rem;
+    height: 100%;
   }
   .gallery {
     row-gap: 5rem;
